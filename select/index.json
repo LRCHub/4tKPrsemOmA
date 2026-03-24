@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "常夜灯",
+  "base_artist": "リアクション ザ ブッタ",
+  "createdAt": "2026-03-24T15:27:24.991494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "常夜灯",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/01_常夜灯_中島みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "常夜灯",
+      "artist": "リアクション ザ ブッタ",
+      "has_synced": false,
+      "path": "select/pl_01_常夜灯_リアクション_ザ_ブッタ.txt"
+    }
+  ]
+}
